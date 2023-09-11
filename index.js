@@ -37,7 +37,7 @@ endPointTask.get("/endpoint", (req, res) => {
     current_day: current_day,
     utc_time: utc_time,
     track: track,
-    github_file_url: "https://github.com/Lillazzaro/HNGx-Backend/index.js",
+    github_file_url: "https://github.com/Lillazzaro/HNGx-Backend/blob/main/index.js",
     github_repo_url: "https://github.com/Lillazzaro/HNGx-Backend",
     status_code: 200,
   };
